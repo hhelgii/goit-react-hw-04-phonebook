@@ -1,0 +1,14 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin: 10px;
+}
+.addContact {
+  width: 200px;
+  height: 30px;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+}
